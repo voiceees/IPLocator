@@ -4,5 +4,5 @@ Simple IPLocator made in Python.
 
 ---
 
-![alt text](https://media.discordapp.net/attachments/768930610244485130/777645917305700372/unknown.png) 
+![alt text](https://media.discordapp.net/attachments/663145920682262548/777646383972745216/unknown.png) 
 
